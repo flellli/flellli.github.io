@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+html,
+body {
+  font-family: Roboto;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.container {
+  padding: 50px;
+}
+
+.portrait {
+  margin: 20px 0;
+  border-radius: 100%;
+  max-width: 150px;
+  max-height: 150px;
+  transition: all;
+  transition-duration: 500ms;
+}
+
+.portrait:hover {
+  transform: rotate(1turn);
+  scale: 1.3;
+}
