@@ -74,7 +74,7 @@
 
   - Profilbild / Portrait erstellen: https://labs.openai.com/
 
-    - Prompt Beispiel: `blonder web developer der eine brille trägt und einen kaffee trinkt`
+    - Prompt Beispiel: `blonder web developer der eine brille trägt und einen kaffee trinkt im Pixelart style`
     - Bild speichern unter `me.png`
 
 - Über Source Control die Files "stagen", "committen" und "pushen"
